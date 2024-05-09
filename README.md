@@ -9,3 +9,6 @@ There is a single file of R code.
 If not already available, the [tidyverse](https://cran.r-project.org/package=tidyverse) and [quantmod](https://cran.r-project.org/package=quantmod) libraries must be installed.
 
 The code was developed using R version 3.5.1, tidyverse version 1.2.1 and quantmod version 0.4-0. 
+
+## Data Classification
+Bank of England Data Classification: OFFICIAL BLUE
